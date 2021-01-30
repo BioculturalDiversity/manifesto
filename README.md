@@ -47,7 +47,7 @@ Education also is to be connected to the notion of transmission, especially the 
 The first version of this manifesto was the result of a collaborative writing "sprint" held at exploration space at the Austrian Academy of Sciences on 23-24 October 2019 in Vienna. It reflects the discussions, agreements, views and perspectives during a content co-creation process by a diverse group of people who engaged in the first version of this document. We met and worked together during two days sharing complementary knowledge from the fields of biology, linguistics, humanities, sustainability, sociology, design and computer sciences. As participants we were representing different institutions as academic researchers, practitioners and cultural activists with procedences from Austria, Brasil, El Salvador, France, Germany, India, Mexico, Portugal, Spain, Sweden. We reflect here the results of the manifesto sprint after a second stage of online writing and collaboration open to more participants. 
 
 * Carsenat, Elian - NamSor [FR] - elian.carsenat[at]namsor.com 
-* Dika, Penesta - Lecturer at the Kunstuniversität Linz and freelance art curator [AT] -  penesta.dika@ufg.at 
+* Dika, Penesta - Lecturer at the Kunstuniversität Linz and freelance art curator [AT] -  penesta.dika[at]ufg.at 
 * Dorn, Amelie - Austrian Academy of Sciences, Austrian Centre for Digital Humanities (ACDH-ÖAW) [AT] - amelie.dorn[at]oeaw.ac.at 
 * Haarich, Max - Embassy of the Republic of Užupis to Munich - munich[at]uzupis.de 
 * Knezu, Clemens - The Global Institut for a Sustainable Information Society - cknezu[at]utanet.at 
