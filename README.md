@@ -42,35 +42,35 @@ Education also is to be connected to the notion of transmission, especially the 
 * A respectful balance between education and transmission needs also the analysis and questioning of meaning in the broad sense of the word: biases, archetypes, symbols, representations and stereotypes.
 * Another key is the study and dissemination of concepts of balance and homeostasis, in order to understand and conceptualize the link between human societies and their environment.
 
-## Who are we
+## Contributors
 
-This manifesto is the result of a collaborative writing "sprint" held at exploration space at the Austrian Academy of Sciences on 23-24 October 2019 in Vienna. It reflects the discussions, agreements, views and perspectives during a content co-creation process by a diverse group of people who engaged in the first version of this document. We met and worked together during two days sharing complementary knowledge from the fields of biology, linguistics, humanities, sustainability, sociology, design and computer sciences. As participants we were representing different institutions as academic researchers, practitioners and cultural activists with procedences from Austria, Brasil, El Salvador, France, Germany, India, Mexico, Portugal, Spain, Sweden. We reflect here the results of the manifesto sprint after a second stage of online writing and collaboration open to more participants. 
+The first version of this manifesto was the result of a collaborative writing "sprint" held at exploration space at the Austrian Academy of Sciences on 23-24 October 2019 in Vienna. It reflects the discussions, agreements, views and perspectives during a content co-creation process by a diverse group of people who engaged in the first version of this document. We met and worked together during two days sharing complementary knowledge from the fields of biology, linguistics, humanities, sustainability, sociology, design and computer sciences. As participants we were representing different institutions as academic researchers, practitioners and cultural activists with procedences from Austria, Brasil, El Salvador, France, Germany, India, Mexico, Portugal, Spain, Sweden. We reflect here the results of the manifesto sprint after a second stage of online writing and collaboration open to more participants. 
 
 * Carsenat, Elian - NamSor [FR] - elian.carsenat[at]namsor.com 
 * Dika, Penesta - Lecturer at the Kunstuniversität Linz and freelance art curator [AT] -  penesta.dika@ufg.at 
-* Dorn, Amelie - Austrian Academy of Sciences, Austrian Centre for Digital Humanities (ACDH-ÖAW) [AT] - amelie.dorn@oeaw.ac.at 
-* Haarich, Max - Embassy of the Republic of Užupis to Munich - munich@uzupis.de 
-* Knezu, Clemens - The Global Institut for a Sustainable Information Society - cknezu@utanet.at 
-* Menon, Nirmala - Indian Institute of Technology Indore, Madhya Pradesh India - nmenon@iiti.ac.in
-* Piringer, Barbara - Austrian Academy of Sciences, Austrian Centre for Digital Humanities (ACDH-ÖAW) [AT] - barbara.piringer@oeaw.ac.at
-* Preza Díaz, José Luis - Austrian Academy of Sciences, Austrian Centre for Digital Humanities (ACDH-ÖAW) [AT] - jose.prezadiaz@oeaw.ac.at
-* Ribeiro Gonçalves, Luís - Universidade de Évora (PT) - lcrg@uevora.pt
-* Rocha Sepúlveda, Aleyda - Austrian Academy of Sciences, Austrian Centre for Digital Humanities (ACDH-ÖAW) [AT] - Aleyda.Rocha@oeaw.ac.at 
-* Rocha Souza, Renato - Austrian Academy of Sciences, Austrian Centre for Digital Humanities (ACDH-ÖAW) [AT] - renato.souza@oeaw.ac.at 
-* Sanches, Danielle - Universidade NOVA de Lisboa (PT) -  daniellesanches@fcsh.unl.pt
+* Dorn, Amelie - Austrian Academy of Sciences, Austrian Centre for Digital Humanities (ACDH-ÖAW) [AT] - amelie.dorn[at]oeaw.ac.at 
+* Haarich, Max - Embassy of the Republic of Užupis to Munich - munich[at]uzupis.de 
+* Knezu, Clemens - The Global Institut for a Sustainable Information Society - cknezu[at]utanet.at 
+* Menon, Nirmala - Indian Institute of Technology Indore, Madhya Pradesh India - nmenon[at]iiti.ac.in
+* Piringer, Barbara - Austrian Academy of Sciences, Austrian Centre for Digital Humanities (ACDH-ÖAW) [AT] - barbara.piringer[at]oeaw.ac.at
+* Preza Díaz, José Luis - Austrian Academy of Sciences, Austrian Centre for Digital Humanities (ACDH-ÖAW) [AT] - jose.prezadiaz[at]oeaw.ac.at
+* Ribeiro Gonçalves, Luís - Universidade de Évora (PT) - lcrg[at]uevora.pt
+* Rocha Sepúlveda, Aleyda - Austrian Academy of Sciences, Austrian Centre for Digital Humanities (ACDH-ÖAW) [AT] - Aleyda.Rocha[at]oeaw.ac.at 
+* Rocha Souza, Renato - Austrian Academy of Sciences, Austrian Centre for Digital Humanities (ACDH-ÖAW) [AT] - renato.souza[at]oeaw.ac.at 
+* Sanches, Danielle - Universidade NOVA de Lisboa (PT) -  daniellesanches[at]fcsh.unl.pt
 * Senabre Hidalgo, Enric - Centre de Recherche Interdisciplinaire (CRI) / U1284 INSERM – Université  Paris [FR] - enric.senabrehidalgo[at]cri-paris.org
-* Wagener, Albin - Université Rennes 2 (PREFics) / INALCO (PLIDAM) [FR] - albin.wagener@campustech.fr 
-* Wandl-Vogt, Eveline - Austrian Academy of Sciences, Austrian Centre for Digital Humanities (ACDH-ÖAW) [AT] | Ars Electronica, Ars Electronica Research Institute Knowledge for Humanity Hub (k4h+) [AT] | European Association of Citizen Science, Working Group Open Science - Citizen Science [EU] | - eveline.wandl-vogt@oeaw.ac.at
-* Zakravsky, Katherina T. - Freelancer, Vienna, cooperation with K. Spiess, klaus.spiess@meduniwien.ac.at  - katzakra@gmail.com 
+* Wagener, Albin - Université Rennes 2 (PREFics) / INALCO (PLIDAM) [FR] - albin.wagener[at]campustech.fr 
+* Wandl-Vogt, Eveline - Austrian Academy of Sciences, Austrian Centre for Digital Humanities (ACDH-ÖAW) [AT] | Ars Electronica, Ars Electronica Research Institute Knowledge for Humanity Hub (k4h+) [AT] | European Association of Citizen Science, Working Group Open Science - Citizen Science [EU] | - eveline.wandl-vogt[at]oeaw.ac.at
+* Zakravsky, Katherina T. - Freelancer, Vienna, cooperation with K. Spiess, klaus.spiess[at]meduniwien.ac.at  - katzakra[at]gmail.com 
 
 ## References
 
-Boehnert, J. (2019). Mapping climate communication: No. 2 Network of actors. Retrieved from https://dspace.lboro.ac.uk/2134/37030 
-Buizer, M., Elands, B., & Vierikko, K. (2016). Governing cities reflexively—The biocultural diversity concept as an alternative to ecosystem services. Environmental Science & Policy, 62, 7-13.
-Gorenflo, L. J., Romaine, S., Mittermeier, R. A., & Walker-Painemilla, K. (2012). Co-occurrence of linguistic and biological diversity in biodiversity hotspots and high biodiversity wilderness areas. Proceedings of the National Academy of Sciences, 109(21), 8032-8037.
-Maffi, L. (2001). On biocultural diversity: Linking Language, Knowledge, and the Environment. Washington, D.C: Smithsonian Institution Press.
-Maffi, L., & Woodley, E. (2012). Biocultural diversity conservation: a global sourcebook. Routledge.
-Poole, A. K. (2018). Where is goal 18? The need for biocultural heritage in the sustainable development goals. Environmental Values, 27(1), 55-80.
-Rockström, J., Steffen, W. L., Noone, K., Persson, Å., Chapin III, F. S., Lambin, E., ... & Nykvist, B. (2009). Planetary boundaries: exploring the safe operating space for humanity. Ecology and society.
+* Boehnert, J. (2019). Mapping climate communication: No. 2 Network of actors. Retrieved from https://dspace.lboro.ac.uk/2134/37030 
+* Buizer, M., Elands, B., & Vierikko, K. (2016). Governing cities reflexively—The biocultural diversity concept as an alternative to ecosystem services. Environmental Science & Policy, 62, 7-13.
+* Gorenflo, L. J., Romaine, S., Mittermeier, R. A., & Walker-Painemilla, K. (2012). Co-occurrence of linguistic and biological diversity in biodiversity hotspots and high biodiversity wilderness areas. Proceedings of the National Academy of Sciences, 109(21), 8032-8037.
+* Maffi, L. (2001). On biocultural diversity: Linking Language, Knowledge, and the Environment. Washington, D.C: Smithsonian Institution Press.
+* Maffi, L., & Woodley, E. (2012). Biocultural diversity conservation: a global sourcebook. Routledge.
+* Poole, A. K. (2018). Where is goal 18? The need for biocultural heritage in the sustainable development goals. Environmental Values, 27(1), 55-80.
+* Rockström, J., Steffen, W. L., Noone, K., Persson, Å., Chapin III, F. S., Lambin, E., ... & Nykvist, B. (2009). Planetary boundaries: exploring the safe operating space for humanity. Ecology and society.
 
  
