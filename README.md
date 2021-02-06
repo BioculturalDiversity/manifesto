@@ -46,22 +46,7 @@ Education also is to be connected to the notion of transmission, especially the 
 
 The first version of this manifesto was the result of a [collaborative writing "sprint" held at exploration space at the Austrian Academy of Sciences](https://www.oeaw.ac.at/acdh/about/news-archive/news-detail/workshop-biodiversity-in-connection-with-linguistic-and-cultural-diversity) on 23-24 October 2019 in Vienna. It reflects the discussions, agreements, views and perspectives during a content co-creation process by a diverse group of people who engaged in the first version of this document. We met and worked together during two days sharing complementary knowledge from the fields of biology, linguistics, humanities, sustainability, sociology, design and computer sciences. As participants we were representing different institutions as academic researchers, practitioners and cultural activists with procedences from Austria, Brasil, El Salvador, France, Germany, India, Mexico, Portugal, Spain, Sweden. We reflect here the results of the manifesto sprint after a second stage of online writing and collaboration open to more participants. 
 
-* Carsenat, Elian - NamSor [FR] - elian.carsenat[at]namsor.com 
-* Dika, Penesta - Lecturer at the Kunstuniversität Linz and freelance art curator [AT] -  penesta.dika[at]ufg.at 
-* Dorn, Amelie - Austrian Academy of Sciences, Austrian Centre for Digital Humanities (ACDH-ÖAW) [AT] - amelie.dorn[at]oeaw.ac.at 
-* Haarich, Max - Embassy of the Republic of Užupis to Munich - munich[at]uzupis.de 
-* Knezu, Clemens - The Global Institut for a Sustainable Information Society - cknezu[at]utanet.at 
-* Menon, Nirmala - Indian Institute of Technology Indore, Madhya Pradesh India - nmenon[at]iiti.ac.in
-* Piringer, Barbara - Austrian Academy of Sciences, Austrian Centre for Digital Humanities (ACDH-ÖAW) [AT] - barbara.piringer[at]oeaw.ac.at
-* Preza Díaz, José Luis - Austrian Academy of Sciences, Austrian Centre for Digital Humanities (ACDH-ÖAW) [AT] - jose.prezadiaz[at]oeaw.ac.at
-* Ribeiro Gonçalves, Luís - Universidade de Évora (PT) - lcrg[at]uevora.pt
-* Rocha Sepúlveda, Aleyda - Austrian Academy of Sciences, Austrian Centre for Digital Humanities (ACDH-ÖAW) [AT] - Aleyda.Rocha[at]oeaw.ac.at 
-* Rocha Souza, Renato - Austrian Academy of Sciences, Austrian Centre for Digital Humanities (ACDH-ÖAW) [AT] - renato.souza[at]oeaw.ac.at 
-* Sanches, Danielle - Universidade NOVA de Lisboa (PT) -  daniellesanches[at]fcsh.unl.pt
-* Senabre Hidalgo, Enric - Centre de Recherche Interdisciplinaire (CRI) / U1284 INSERM – Université  Paris [FR] - enric.senabrehidalgo[at]cri-paris.org
-* Wagener, Albin - Université Rennes 2 (PREFics) / INALCO (PLIDAM) [FR] - albin.wagener[at]campustech.fr 
-* Wandl-Vogt, Eveline - Austrian Academy of Sciences, Austrian Centre for Digital Humanities (ACDH-ÖAW) [AT] | Ars Electronica, Ars Electronica Research Institute Knowledge for Humanity Hub (k4h+) [AT] | European Association of Citizen Science, Working Group Open Science - Citizen Science [EU] | - eveline.wandl-vogt[at]oeaw.ac.at
-* Zakravsky, Katherina T. - Freelancer, Vienna, cooperation with K. Spiess, klaus.spiess[at]meduniwien.ac.at  - katzakra[at]gmail.com 
+((Pending confirmation here of each co-author)) 
 
 ## References
 
